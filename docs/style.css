@@ -15,3 +15,16 @@ nav{gap:clamp(10px,2vw,25px)}nav a{white-space:nowrap}
 .filters{gap:10px}.filters button{font-weight:650}.filters button.active{background:var(--blue);border-color:var(--blue)}
 @media(max-width:700px){.hero-photo:before{left:12px;top:12px}.hero-photo figcaption{margin-right:12px;margin-left:12px}.tool:hover{transform:none}}
 @media(prefers-reduced-motion:reduce){.tool{transition:none}.tool:hover{transform:none}}
+
+
+/* Single learning route: the old six-step preview and duplicate interactive
+   builders remain mounted for compatibility, but are no longer shown. */
+#course,#builder,#library{display:none!important}
+.start-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px;margin:28px 0 10px}
+.start-card{display:flex;flex-direction:column;gap:14px;padding:26px;min-height:205px;background:#fff;border:1px solid #dfdcd6;border-radius:14px;color:var(--ink);text-decoration:none;transition:transform .18s ease,border-color .18s ease}
+.start-card:hover{transform:translateY(-3px);border-color:var(--blue)}
+.start-card span{font-size:12px;font-weight:850;letter-spacing:.1em;color:var(--blue)}
+.start-card strong{font-size:clamp(19px,2vw,26px);line-height:1.18;letter-spacing:-.025em}
+.start-card small{font-size:14px;line-height:1.5;color:#57575b}
+@media(max-width:750px){.start-grid{grid-template-columns:1fr}.start-card{min-height:0;padding:22px}}
+@media(prefers-reduced-motion:reduce){.start-card{transition:none}.start-card:hover{transform:none}}
