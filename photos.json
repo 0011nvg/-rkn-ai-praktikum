@@ -1,0 +1,59 @@
+[
+  {
+    "name": "Река Мойка, Санкт-Петербург",
+    "file": "assets/petersburg-moyka.webp",
+    "author": "Wolfgang Moroder",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "url": "https://commons.wikimedia.org/wiki/File:Moyka_river_in_Saint_Petersburg_view_south_from_Pevchesky_bridge.jpg",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Moyka_river_in_Saint_Petersburg_view_south_from_Pevchesky_bridge.jpg",
+    "date": "2015-10-11",
+    "alt": "Катера на реке Мойке между каменными набережными и городскими зданиями в Санкт-Петербурге.",
+    "geographic_fact": "Вид на Мойку к югу с Певческого моста, Санкт-Петербург.",
+    "changes": "Уменьшение размера и преобразование в WebP; композиция и цвета не изменены. При кадрировании в интерфейсе укажите кадрирование.",
+    "width": 1280,
+    "height": 854,
+    "source_ref": "turn10view1"
+  },
+  {
+    "name": "Большая Покровская улица, Нижний Новгород",
+    "file": "assets/nizhny-pokrovskaya.webp",
+    "author": "Алексей Трефилов",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "url": "https://commons.wikimedia.org/wiki/File:Bolshaya_Pokrovskaya_Street._Nizhny_Novgorod.jpg",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Bolshaya_Pokrovskaya_Street._Nizhny_Novgorod.jpg",
+    "date": "2019-09-12",
+    "alt": "Люди идут по Большой Покровской улице в Нижнем Новгороде; слева жёлтое здание, справа белое здание с колоннами, вдоль улицы стоят фонари.",
+    "geographic_fact": "Большая Покровская улица в Нижнем Новгороде; снимок 12 сентября 2019 года.",
+    "changes": "Уменьшение размера и преобразование в WebP; композиция и цвета не изменены. При кадрировании в интерфейсе укажите кадрирование.",
+    "width": 1600,
+    "height": 900,
+    "source_ref": "turn10view0",
+    "task": {
+      "level": "A1–A2",
+      "goal": "Описать расположение видимых объектов и действие людей.",
+      "lexis": "сле́ва; спра́ва; впереди́; зда́ние; фона́рь; у́лица",
+      "questions": ["Что находится слева?", "Какое здание находится справа?", "Что делают люди?"],
+      "model": "Слева находится жёлтое здание. Справа — белое здание с колоннами. Люди идут по улице.",
+      "transfer": "Опишите улицу рядом со школой: что находится слева, справа и впереди?",
+      "teacher_note": "Не просите определить точный маршрут по фотографии: перекрёстки и пункты назначения на снимке не установлены. Не делайте выводы о людях по внешности."
+    }
+  },
+  {
+    "name": "Интерьер Российской национальной библиотеки",
+    "file": "assets/russian-national-library.webp",
+    "author": "Vaija",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "url": "https://commons.wikimedia.org/wiki/File:National_Library_of_Russia_02.jpg",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/National_Library_of_Russia_02.jpg",
+    "date": "2023-08-19",
+    "alt": "Книжный шкаф с рядами старых книг и часами наверху в интерьере Российской национальной библиотеки в Санкт-Петербурге.",
+    "geographic_fact": "Интерьер главного здания Российской национальной библиотеки, Санкт-Петербург; снимок 19 августа 2023 года.",
+    "changes": "Уменьшение размера и преобразование в WebP; композиция и цвета не изменены. При кадрировании в интерфейсе укажите кадрирование.",
+    "width": 1600,
+    "height": 900,
+    "source_ref": "turn13view0"
+  }
+]

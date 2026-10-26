@@ -6,7 +6,7 @@
 
 ## Просмотр
 
-Откройте `docs/index.html` или запустите `python -m http.server 8000 --directory dist`.
+Откройте `docs/index.html` или запустите `python -m http.server 8000 --directory docs`.
 
 ## Публикация GitHub Pages
 
